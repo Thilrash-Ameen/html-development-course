@@ -34,3 +34,11 @@ _The required alt attribute for the <img> tag specifies an alternate text for an
 ## Style Attribute
 
 _The style attribute is used to add styles to an element, such as color, font, size, and more._
+
+## Lang Attribute
+
+_You should always include the lang attribute inside the <html> tag, to declare the language of the Web page. This is meant to assist search engines and browsers._
+
+## Title Attribute
+
+_The title attribute defines some extra information about an element. The value of the title attribute will be displayed as a tooltip when you mouse over the element:_
