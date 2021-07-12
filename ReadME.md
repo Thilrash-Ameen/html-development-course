@@ -17,5 +17,11 @@ _Its elements tell the browser how to display the content_
 1. Structure
 2. Text
 3. Attributes
+4. Comments
+5. Styles
+6. Formatting
+7. Quatations
+8. Colors
+9. Links
 
 _Designed and Developed By Thilrash Ameen_
